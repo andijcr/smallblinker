@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name bzel-t72-0505)(type KiCad)(uri "$(KIPRJMOD)/bzel-t72-0505.pretty")(options "")(descr ""))
+  (lib (name ASMB-MTB0-0A3A2)(type KiCad)(uri "$(KIPRJMOD)/ASMB-MTB0-0A3A2.pretty")(options "")(descr ""))
+)
