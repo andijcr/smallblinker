@@ -1,4 +1,4 @@
-(module ASMB-MTB0-0A3A2 (layer F.Cu) (tedit 59ADA04E)
+(module ASMB-MTB0-0A3A2 (layer F.Cu) (tedit 59F64F74)
   (fp_text reference REF** (at 3 0 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

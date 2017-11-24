@@ -3,4 +3,5 @@
   (lib (name ASMB-MTB0-0A3A2)(type KiCad)(uri "$(KIPRJMOD)/ASMB-MTB0-0A3A2.pretty")(options "")(descr ""))
   (lib (name svg2mod-master)(type KiCad)(uri "$(KIPRJMOD)/svg2mod-master")(options "")(descr ""))
   (lib (name blinker_attiny85)(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
+  (lib (name wrirepad)(type KiCad)(uri "$(KIPRJMOD)/wrirepad.pretty")(options "")(descr ""))
 )
